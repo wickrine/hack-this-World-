@@ -1,4 +1,4 @@
-# Security Policy for believ
+# Security Policy for believe
 
 ## Supported Versions
 
